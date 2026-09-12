@@ -14,7 +14,7 @@ public class ChatService {
 
     private final ChatClient chatClient;
 
-    //also can be store in DB
+
     private final List<Message> history = new ArrayList<>(); //Message is framework specific so that it should not depend on LLM
 
     // system prompt system instruction
