@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Snippit-AI_Chatbot-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Snippit AI Chatbot" />
   <h1>Snippit AI Chatbot Backend</h1>
   <p><i>An intelligent, context-aware customer support assistant for Snippit</i></p>
   
