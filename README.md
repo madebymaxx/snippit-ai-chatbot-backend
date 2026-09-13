@@ -1,8 +1,4 @@
 <div align="center">
-<<<<<<< HEAD
-=======
-
->>>>>>> aab4795 (Change Config)
   <h1>Snippit AI Chatbot Backend</h1>
   <p><i>An intelligent, context-aware customer support assistant for Snippit</i></p>
   
